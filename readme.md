@@ -56,7 +56,7 @@ Bubble-Game-js/
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/AradhyaStuti/Bubble-game-js.git
 2. Open index.html in a web browser.
 
 3. Start playing!
