@@ -47,9 +47,8 @@ Bubble-Game-js/
 ---
 
 ## ⚡ Gameplay Screenshots
+![1768542788286](image/readme/1768542788286.png)
 
-![1768538949644](image/readme/1768538949644.png)
-![Gameplay Screenshot](https://github.com/AradhyaStuti/Bubble-game-js/blob/main/image/readme/1768538949644.png?raw=true)
 
 ---
 
