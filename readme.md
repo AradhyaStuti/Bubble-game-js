@@ -37,12 +37,12 @@ A simple **interactive web game** where players click on bubbles with digits to 
 
 ## 📂 Project Structure
 
-Bubble-Game-js/
-│
-├── index.html # Main HTML file
-├── style.css # CSS styling for layout and bubbles
-└── script.js # Game logic in JavaScript
+# Bubble-Game-js
 
+- Bubble-Game-js/
+  - **index.html** – Main HTML file
+  - **style.css** – CSS styling for layout and bubbles
+  - **script.js** – Game logic in JavaScript
 
 ---
 
